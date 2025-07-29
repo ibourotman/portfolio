@@ -43,8 +43,8 @@ const projects = [
   {
     title: 'FocusSquad Vuejs && nodejs',
     imageUrl: FocusSquad,
-    github:    'https://github.com/ibourotman/focussquad',
-    website:   'https://github.com/ibourotman/pomodoro-for-a-team'
+    github:    'https://github.com/ibourotman/pomodoro-for-a-team',
+    website:   'https://drive.google.com/file/d/1zCFpDxYnmN0e5keum34uUvoXDdw45EfZ/view?usp=sharing'
   },
   {
     title: 'Chatbot RAG && Langchain && Chromadb && Python',
