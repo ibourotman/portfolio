@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.e9390e02.css",
+    "main.js": "/portfolio/static/js/main.e56df536.js",
+    "static/js/453.052877a7.chunk.js": "/portfolio/static/js/453.052877a7.chunk.js",
+    "static/media/site.png": "/portfolio/static/media/site.1b84fad3a4a2cfa23d52.png",
+    "static/media/site1.png": "/portfolio/static/media/site1.67b07d9ec2d93484f07a.png",
+    "static/media/np.png": "/portfolio/static/media/np.da2bf8c77ce047e1f2d3.png",
+    "static/media/site3.png": "/portfolio/static/media/site3.2bf15cd8313ca1122b3c.png",
+    "static/media/pacman.png": "/portfolio/static/media/pacman.7012d7d94265b18d24ee.png",
+    "static/media/focussquad.png": "/portfolio/static/media/focussquad.5d31f7b36fe83fc08ad0.png",
+    "static/media/react.png": "/portfolio/static/media/react.8a6fc0a24a800d1e0f4a.png",
+    "static/media/reactn.png": "/portfolio/static/media/reactn.33126bcb3ac441675acc.png",
+    "static/media/html.jpg": "/portfolio/static/media/html.3b1ac000df0b80c2fdb3.jpg",
+    "static/media/git.png": "/portfolio/static/media/git.2a5fec306dd6229e2ff6.png",
+    "static/media/chatbot.png": "/portfolio/static/media/chatbot.846dd8149ea3f13b672a.png",
+    "static/media/math1.png": "/portfolio/static/media/math1.8804af66c2e7a2b3b479.png",
+    "static/media/spring.png": "/portfolio/static/media/spring.b62e5a59cba43adedc48.png",
+    "static/media/ns.png": "/portfolio/static/media/ns.0e0846d2f2bddf76480c.png",
+    "static/media/sql.png": "/portfolio/static/media/sql.152cb6485523774e2ad1.png",
+    "static/media/img.jpg": "/portfolio/static/media/img.f9532188412d9a69fd44.jpg",
+    "static/media/angular.png": "/portfolio/static/media/angular.c4203a1316a2c830f470.png",
+    "static/media/swaglords.png": "/portfolio/static/media/swaglords.19df10952c221fb0eca3.png",
+    "static/media/pd.jpg": "/portfolio/static/media/pd.8d28c7bb75a591498339.jpg",
+    "static/media/c.png": "/portfolio/static/media/c.c2828abcf4afddf2f523.png",
+    "static/media/css.jpg": "/portfolio/static/media/css.82755d160f88ce28c921.jpg",
+    "static/media/c++.jpg": "/portfolio/static/media/c++.1467dcc2a4ea0404a573.jpg",
+    "static/media/Profile.jpg": "/portfolio/static/media/Profile.63deaa57259258006689.jpg",
+    "static/media/java.jpg": "/portfolio/static/media/java.e602c69eaed6fa028942.jpg",
+    "static/media/py.png": "/portfolio/static/media/py.fb22142fdbf1f55ed05a.png",
+    "static/media/springBoot.png": "/portfolio/static/media/springBoot.84b1e9852befc98ad232.png",
+    "static/media/mg.png": "/portfolio/static/media/mg.d2892e9a3e387f16e1a4.png",
+    "index.html": "/portfolio/index.html",
+    "main.e9390e02.css.map": "/portfolio/static/css/main.e9390e02.css.map",
+    "main.e56df536.js.map": "/portfolio/static/js/main.e56df536.js.map",
+    "453.052877a7.chunk.js.map": "/portfolio/static/js/453.052877a7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e9390e02.css",
+    "static/js/main.e56df536.js"
+  ]
+}
